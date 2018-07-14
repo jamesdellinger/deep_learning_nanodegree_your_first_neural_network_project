@@ -9,15 +9,11 @@ In this project, you'll get to build a neural network from scratch to carry out 
 
 The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
 
-### My completed project is here:
+### My completed project:
 
 * [My NumPy implementation of gradient descent and backpropagation](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/my_answers.py)
 
-* [ipython notebook](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.ipynb)
-
-* [pdf version](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.pdf)
-
-* [html version](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.html)
+* [ipython notebook](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.ipynb) / [pdf version](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.pdf) / [html version](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.html)
 
 ### Project Grading and Evaluation:
 
@@ -25,6 +21,6 @@ The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.
 
 * [Project Grading Rubric](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/your_first_neural_network_project_grading_rubric.pdf)
 
-### The Python environment requirements are here:
+### Python environment requirements:
 
 * [requirements.txt](https://github.com/jamesdellinger/machine_learning_nanodegree_capstone_project/blob/master/requirements.txt)
