@@ -1,6 +1,5 @@
-# Your First Neural Network
-## Deep Learning Nanodegree
-## Topic: Neural Networks
+# Udacity Deep Learning Nanodegree, Topic: Neural Networks
+## Project: Your First Neural Network
 
 *Build a neural network from scratch, using gradient descent and backpropagation.*
 
@@ -13,7 +12,7 @@ The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.
 
 * [My NumPy implementation of gradient descent and backpropagation](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/my_answers.py)
 
-* [ipython notebook](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.ipynb) / [pdf version](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.pdf) / [html version](http://htmlpreview.github.com/?https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.html)
+* [ipython notebook](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.ipynb) / [html version](http://htmlpreview.github.com/?https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.html) / [pdf version](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.pdf)
 
 ### Project Grading and Evaluation:
 
