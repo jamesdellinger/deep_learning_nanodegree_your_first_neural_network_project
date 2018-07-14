@@ -7,7 +7,7 @@
 
 ### Overview:
 * I built and trained a neural network that predicts ridership for a bike rental business.
-* The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
+* The dataset comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
 
 ### Concepts:
 * Implemented gradient descent and backpropagation in NumPy.
