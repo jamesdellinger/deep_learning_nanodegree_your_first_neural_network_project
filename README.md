@@ -1,4 +1,5 @@
 # Project: Implementing a Neural Network from Scratch
+![DLND Logo](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/dlndlogo.png)
 ## For Udacity's Deep Learning Nanodegree (Topic: Neural Networks)
 ### Overview
 
