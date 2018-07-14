@@ -4,21 +4,27 @@
 
 *Build a neural network from scratch, using gradient descent and backpropagation.*
 
-### My completed project is here:
-
-[ipython notebook]()
-
-[pdf version]()
-
-[html version]()
-
-### Project Grading and Evaluation:
-
-[Project Review]()
-
-[Project Grading Rubric]()
-
 ## Project Overview
 In this project, you'll get to build a neural network from scratch to carry out a prediction problem on a real dataset! By building a neural network from the ground up, you'll have a much better understanding of gradient descent, backpropagation, and other concepts that are important to know before we move to higher level tools such as Tensorflow. You'll also get to see how to apply these networks to solve real prediction problems!
 
 The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
+
+### My completed project is here:
+
+* [My NumPy implementation of gradient descent and backpropagation](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/my_answers.py)
+
+* [ipython notebook](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.ipynb)
+
+* [pdf version](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.pdf)
+
+* [html version](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/Your_first_neural_network.html)
+
+### Project Grading and Evaluation:
+
+* [Project Review](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/your_first_neural_network_project_review.pdf)
+
+* [Project Grading Rubric](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/your_first_neural_network_project_grading_rubric.pdf)
+
+### The Python environment requirements are here:
+
+* [requirements.txt](https://github.com/jamesdellinger/machine_learning_nanodegree_capstone_project/blob/master/requirements.txt)
