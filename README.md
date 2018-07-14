@@ -26,6 +26,6 @@
 
 * [Project Grading Rubric](https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/your_first_neural_network_project_grading_rubric.pdf)
 
-### Python environment requirements:
+### Dependencies:
 
 * [requirements.txt](https://github.com/jamesdellinger/machine_learning_nanodegree_capstone_project/blob/master/requirements.txt)
