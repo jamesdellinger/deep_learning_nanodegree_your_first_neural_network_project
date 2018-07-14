@@ -1,12 +1,18 @@
 # Project: Implementing a Neural Network from Scratch
+*Implementing gradient descent and backpropagation in NumPy.*
 ### For Udacity's Deep Learning Nanodegree
 <img src="https://github.com/jamesdellinger/deep_learning_nanodegree_your_first_neural_network_project/blob/master/dlndlogo.png" height="140">
 
 ### Topic: Neural Networks
-### Overview:
-In this project, you'll get to build a neural network from scratch to carry out a prediction problem on a real dataset! By building a neural network from the ground up, you'll have a much better understanding of gradient descent, backpropagation, and other concepts that are important to know before we move to higher level tools such as Tensorflow. You'll also get to see how to apply these networks to solve real prediction problems!
 
-The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
+### Overview:
+* I built and trained a neural network that predicts ridership for a bike rental business.
+* The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
+
+### Concepts:
+* Implemented gradient descent and backpropagation in NumPy.
+* Developed intuition on choosing number of nodes in a hidden layer, given the number of features in a dataset.
+* Learned the tradeoffs between learning rate and number of epochs.
 
 ### My completed project:
 
