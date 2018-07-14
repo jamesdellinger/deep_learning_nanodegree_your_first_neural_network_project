@@ -1,6 +1,6 @@
-# Udacity Deep Learning Nanodegree
-# Topic: Neural Networks
-## Project: Your First Neural Network
+# Building a Neural Network from Scratch
+## Udacity Deep Learning Nanodegree
+## Topic: Neural Networks
 
 *Building a neural network from scratch, using gradient descent and backpropagation.*
 
